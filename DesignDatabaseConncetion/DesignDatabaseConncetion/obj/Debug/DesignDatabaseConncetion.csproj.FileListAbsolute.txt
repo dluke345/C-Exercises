@@ -1,0 +1,7 @@
+c:\users\david luke\source\repos\DesignDatabaseConncetion\DesignDatabaseConncetion\bin\Debug\DesignDatabaseConncetion.exe.config
+c:\users\david luke\source\repos\DesignDatabaseConncetion\DesignDatabaseConncetion\bin\Debug\DesignDatabaseConncetion.exe
+c:\users\david luke\source\repos\DesignDatabaseConncetion\DesignDatabaseConncetion\bin\Debug\DesignDatabaseConncetion.pdb
+c:\users\david luke\source\repos\DesignDatabaseConncetion\DesignDatabaseConncetion\obj\Debug\DesignDatabaseConncetion.csprojResolveAssemblyReference.cache
+c:\users\david luke\source\repos\DesignDatabaseConncetion\DesignDatabaseConncetion\obj\Debug\DesignDatabaseConncetion.csproj.CoreCompileInputs.cache
+c:\users\david luke\source\repos\DesignDatabaseConncetion\DesignDatabaseConncetion\obj\Debug\DesignDatabaseConncetion.exe
+c:\users\david luke\source\repos\DesignDatabaseConncetion\DesignDatabaseConncetion\obj\Debug\DesignDatabaseConncetion.pdb
