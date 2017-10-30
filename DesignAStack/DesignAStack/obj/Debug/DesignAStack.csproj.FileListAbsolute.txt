@@ -1,0 +1,7 @@
+C:\Users\David Luke\source\repos\DesignAStack\DesignAStack\bin\Debug\DesignAStack.exe.config
+C:\Users\David Luke\source\repos\DesignAStack\DesignAStack\bin\Debug\DesignAStack.exe
+C:\Users\David Luke\source\repos\DesignAStack\DesignAStack\bin\Debug\DesignAStack.pdb
+C:\Users\David Luke\source\repos\DesignAStack\DesignAStack\obj\Debug\DesignAStack.csprojResolveAssemblyReference.cache
+C:\Users\David Luke\source\repos\DesignAStack\DesignAStack\obj\Debug\DesignAStack.csproj.CoreCompileInputs.cache
+C:\Users\David Luke\source\repos\DesignAStack\DesignAStack\obj\Debug\DesignAStack.exe
+C:\Users\David Luke\source\repos\DesignAStack\DesignAStack\obj\Debug\DesignAStack.pdb
