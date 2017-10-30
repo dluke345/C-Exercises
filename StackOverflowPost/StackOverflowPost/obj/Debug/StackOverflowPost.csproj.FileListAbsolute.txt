@@ -1,0 +1,7 @@
+c:\users\david luke\source\repos\StackOverflowPost\StackOverflowPost\bin\Debug\StackOverflowPost.exe.config
+c:\users\david luke\source\repos\StackOverflowPost\StackOverflowPost\bin\Debug\StackOverflowPost.exe
+c:\users\david luke\source\repos\StackOverflowPost\StackOverflowPost\bin\Debug\StackOverflowPost.pdb
+c:\users\david luke\source\repos\StackOverflowPost\StackOverflowPost\obj\Debug\StackOverflowPost.csprojResolveAssemblyReference.cache
+c:\users\david luke\source\repos\StackOverflowPost\StackOverflowPost\obj\Debug\StackOverflowPost.csproj.CoreCompileInputs.cache
+c:\users\david luke\source\repos\StackOverflowPost\StackOverflowPost\obj\Debug\StackOverflowPost.exe
+c:\users\david luke\source\repos\StackOverflowPost\StackOverflowPost\obj\Debug\StackOverflowPost.pdb
