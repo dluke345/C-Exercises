@@ -1,0 +1,7 @@
+c:\users\david luke\source\repos\StopWatch\StopWatch\bin\Debug\StopWatch.exe.config
+c:\users\david luke\source\repos\StopWatch\StopWatch\bin\Debug\StopWatch.exe
+c:\users\david luke\source\repos\StopWatch\StopWatch\bin\Debug\StopWatch.pdb
+c:\users\david luke\source\repos\StopWatch\StopWatch\obj\Debug\StopWatch.csprojResolveAssemblyReference.cache
+c:\users\david luke\source\repos\StopWatch\StopWatch\obj\Debug\StopWatch.csproj.CoreCompileInputs.cache
+c:\users\david luke\source\repos\StopWatch\StopWatch\obj\Debug\StopWatch.exe
+c:\users\david luke\source\repos\StopWatch\StopWatch\obj\Debug\StopWatch.pdb
