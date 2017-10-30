@@ -1,0 +1,7 @@
+C:\Users\David Luke\source\repos\DesignWorkflowEngine\DesignWorkflowEngine\bin\Debug\DesignWorkflowEngine.exe.config
+C:\Users\David Luke\source\repos\DesignWorkflowEngine\DesignWorkflowEngine\bin\Debug\DesignWorkflowEngine.exe
+C:\Users\David Luke\source\repos\DesignWorkflowEngine\DesignWorkflowEngine\bin\Debug\DesignWorkflowEngine.pdb
+C:\Users\David Luke\source\repos\DesignWorkflowEngine\DesignWorkflowEngine\obj\Debug\DesignWorkflowEngine.csprojResolveAssemblyReference.cache
+C:\Users\David Luke\source\repos\DesignWorkflowEngine\DesignWorkflowEngine\obj\Debug\DesignWorkflowEngine.csproj.CoreCompileInputs.cache
+C:\Users\David Luke\source\repos\DesignWorkflowEngine\DesignWorkflowEngine\obj\Debug\DesignWorkflowEngine.exe
+C:\Users\David Luke\source\repos\DesignWorkflowEngine\DesignWorkflowEngine\obj\Debug\DesignWorkflowEngine.pdb
